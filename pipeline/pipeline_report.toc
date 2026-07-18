@@ -1,0 +1,23 @@
+\contentsline {section}{\numberline {1}Introduction and Instrument Design}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Tien Shan Optical Train and Focal Reducer Mismatch}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Dual-Beam Separation and Extraordinary Dispersion}{3}{subsection.1.2}%
+\contentsline {section}{\numberline {2}CCD Calibration and Masters Generation}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Master Bias and Dark Stacking}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Flat Field Generation: Architectural Decision (Single vs Angle-Specific Flats)}{4}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Hardware and Geometry Calibration (VI Cyg 12)}{6}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Mathematical Refinement of the Separation Vector}{6}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Polarization Efficiency and Position Angle Zero Point}{6}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Photometry and Dual-Beam Extraction}{9}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Raw Science vs. Calibrated Frame Reduction}{9}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Aperture Photometry and Local Sky Subtraction}{9}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Master Nebulosity Subtraction}{10}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Aperture Verification and Star Gallery}{11}{subsection.4.4}%
+\contentsline {section}{\numberline {5}Cross-Cycle Tracking and Combination}{20}{section.5}%
+\contentsline {section}{\numberline {6}Stokes Parameters and Error Propagation}{21}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Double-Ratio Math: Architectural Decision (Dual-Beam vs Single-Beam)}{21}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Statistical Debiasing of Polarization Degree}{22}{subsection.6.2}%
+\contentsline {section}{\numberline {7}Astrometric Alignment with Gaia DR3}{23}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Gnomonic (Tangent Plane) Projection Math}{23}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Grid Matching and Affine Refinement}{23}{subsection.7.2}%
+\contentsline {section}{\numberline {8}Verification and Comparison Results}{24}{section.8}%
+\contentsline {section}{\numberline {9}Conclusion and Summary}{25}{section.9}%
