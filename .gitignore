@@ -5,3 +5,6 @@
 *.csv
 .ipynb_checkpoints
 ssh*
+koji*
+ngc7538_analysis
+ngc7538_analysis_v2
