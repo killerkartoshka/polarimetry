@@ -1,0 +1,6 @@
+*.fit
+*.fits
+.DS_Store
+.DS_Store
+*.csv
+.ipynb_checkpoints
